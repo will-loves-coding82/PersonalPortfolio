@@ -1,44 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T01:36:32.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="TeNyQuvWX0ZaSDOqv51v" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T05:11:21.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="_6q1jU2Pf35ax6ouS3_a" version="22.0.4" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1540" dy="926" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#000033" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="1388" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#000033" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1672d66443f91eb5-23" value="&lt;font color=&quot;#ffffff&quot;&gt;Personal Portfolio Site Diagram&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XCRQBAGbuWee2OxwCd0X-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="XCRQBAGbuWee2OxwCd0X-1" target="XCRQBAGbuWee2OxwCd0X-4">
+        <mxCell id="XCRQBAGbuWee2OxwCd0X-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" parent="1" source="XCRQBAGbuWee2OxwCd0X-1" target="XCRQBAGbuWee2OxwCd0X-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="648" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XCRQBAGbuWee2OxwCd0X-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="733" y="151" width="278" height="182" as="geometry" />
-        </mxCell>
-        <mxCell id="XCRQBAGbuWee2OxwCd0X-3" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 60%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Landing Page&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;index.html&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="782" y="177" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="XCRQBAGbuWee2OxwCd0X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;endArrow=none;endFill=0;" edge="1" parent="1" source="XCRQBAGbuWee2OxwCd0X-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="219" y="903" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XCRQBAGbuWee2OxwCd0X-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="253" y="415" width="272" height="182" as="geometry" />
-        </mxCell>
-        <mxCell id="XCRQBAGbuWee2OxwCd0X-7" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 60%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;About Page&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;aboutme.html&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="305" y="446" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="XCRQBAGbuWee2OxwCd0X-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="302.32" y="657" width="222.68" height="149" as="geometry" />
-        </mxCell>
-        <mxCell id="XCRQBAGbuWee2OxwCd0X-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="XCRQBAGbuWee2OxwCd0X-4" target="XCRQBAGbuWee2OxwCd0X-9">
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="1" source="XCRQBAGbuWee2OxwCd0X-1" target="6zt7Fhe0QMiv9Hf3yPAy-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="219" y="506" />
-              <mxPoint x="219" y="737" />
+              <mxPoint x="872" y="374" />
+              <mxPoint x="1434" y="374" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="XCRQBAGbuWee2OxwCd0X-1" target="6zt7Fhe0QMiv9Hf3yPAy-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1087.4799640098315" y="399.4724697155899" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCRQBAGbuWee2OxwCd0X-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="733" y="151" width="278" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="XCRQBAGbuWee2OxwCd0X-3" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 60%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Landing Page&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;index.html&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="782" y="177" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XCRQBAGbuWee2OxwCd0X-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="174" y="415" width="272" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="XCRQBAGbuWee2OxwCd0X-7" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 60%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;About Page&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;aboutme.html&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="442.5" width="190" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XCRQBAGbuWee2OxwCd0X-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;endArrow=none;endFill=0;" parent="1" target="6zt7Fhe0QMiv9Hf3yPAy-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="502" />
+              <mxPoint x="886" y="502" />
+              <mxPoint x="886" y="700" />
+            </Array>
+            <mxPoint x="920" y="468" as="sourcePoint" />
+            <mxPoint x="929" y="699" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="920" y="627" width="272" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="546" y="415" width="272" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-3" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Site Details Page&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="429" width="195" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.514;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="XCRQBAGbuWee2OxwCd0X-1" target="6zt7Fhe0QMiv9Hf3yPAy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-5" value="&lt;font color=&quot;#ffffff&quot;&gt;Displays site diagram, wireframes, user personas, and the purpose of the site&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="576.5" y="524" width="214" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-6" value="&lt;font color=&quot;#ffffff&quot;&gt;sitedetails.html&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="576.5" y="492" width="93" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="411.5" width="272" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-9" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Art Page&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1324.5" y="425.5" width="195" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-10" value="&lt;font color=&quot;#ffffff&quot;&gt;A fun page to share my creativity. This will be a gallery similar to tumblr&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1324.5" y="492" width="214" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-11" value="&lt;font color=&quot;#ffffff&quot;&gt;myart.html&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="455" width="93" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="920" y="415" width="272" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-18" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;Dev Projects Page&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 60%;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="946.5" y="429" width="195" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-19" value="&lt;font color=&quot;#ffffff&quot;&gt;Showcases some of my dev projects over the years&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="520" width="214" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-20" value="&lt;font color=&quot;#ffffff&quot;&gt;devprojects.html&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="492" width="93" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-22" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;scripts&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="643" width="195" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-23" value="&lt;font color=&quot;#ffffff&quot;&gt;Will include a few scripts rendered in a canvas for interactivity with my projects&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="954" y="672" width="214" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6zt7Fhe0QMiv9Hf3yPAy-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1258" y="500" />
+              <mxPoint x="1258" y="708" />
+            </Array>
+            <mxPoint x="1298" y="500" as="sourcePoint" />
+            <mxPoint x="1292" y="698" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=12;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1295.5" y="635" width="272" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-27" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;scripts&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1326" y="651" width="195" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-28" value="&lt;font color=&quot;#ffffff&quot;&gt;Will include a few scripts rendered in a canvas for interactivity with my projects&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1329.5" y="680" width="214" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6zt7Fhe0QMiv9Hf3yPAy-34" value="&lt;font color=&quot;#ffffff&quot;&gt;A page to share more about myself, education, skills, and links to other websites&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="202" y="514" width="166" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
