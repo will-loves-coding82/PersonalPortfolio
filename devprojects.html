@@ -1,40 +1,134 @@
-
 <!DOCTYPE html>
 
 <head>
 
-    <meta charset = "UTF-8">
-    <title>William's Personal Portfolio</title>
-    <link rel="icon" type="image/x-icon" href="/assets/logo2.svg">
-    <style>
-        li {
-            display: inline;
-        }
-    </style>
-    
+    <meta charset="UTF-8">
+    <title>About Me Page</title>
+    <script src = "./assets/scripts/canvas.js"></script>
+
 </head>
 
 <body>
 
-    <script></script>
-
-
+ 
     <nav>
-        <ul>
-            <svg width="50" height="61" viewBox="0 0 112 123" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="59" cy="53" r="53" fill="#181818"/>
-                <circle cx="29.5" cy="93.5" r="29.5" fill="#181818"/>
-                <path d="M58.8943 50.122L51.4848 71H43.8198L35.1328 41.0335H43.4183L48.6378 62.5685L55.9743 41.6175H61.8508L69.1143 62.5685L74.4068 41.0335H82.6923L74.0418 71H66.3768L58.8943 50.122Z" fill="white"/>
-            </svg>
-            
-            <li><a href = "index.html" >Home</a></li>
-            <li><a href = "aboutme.html" >About</a></li>
-            <li><a href = "devprojects.html">Dev Projects</a></li>
-            <li><a href = "art.html">Art</a></li>
-            <li><a href = "sitedetails.html">Site Details</a></li>
 
+        <svg width="50" height="61" viewBox="0 0 112 123" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="59" cy="53" r="53" fill="#181818" />
+            <circle cx="29.5" cy="93.5" r="29.5" fill="#181818" />
+            <path
+                d="M58.8943 50.122L51.4848 71H43.8198L35.1328 41.0335H43.4183L48.6378 62.5685L55.9743 41.6175H61.8508L69.1143 62.5685L74.4068 41.0335H82.6923L74.0418 71H66.3768L58.8943 50.122Z"
+                fill="white" />
+        </svg>
+        
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="aboutme.html">About</a></li>
+            <li><a href="devprojects.html">Dev Projects</a></li>
+            <li><a href="art.html">Art</a></li>
         </ul>
     </nav>
+
+    <!--Main content here -->
+    <main>
+
+        <br>
+
+        <section>
+            <header>
+                <h1><b>Dev Projects</b></h1>
+                <p>
+                    Welcome to my projects page! This is a deeper dive into a curated <br>
+                    selection of my diverse endeavors. <br>
+                    From interactive programs to modern applications <br> 
+                    these projects reflect my passion for pushing <br> 
+                    boundaries and crafting engaging digital experiences. <br>
+                    Whether it's a solo venture or a collaborative effort, <br> 
+                    each project embodies my dedication to excellence, <br>
+                    attention to detail, and a keen eye for design.
+                </p>
+            </header>
+
+        </section>
+
+
+        <section>            
+            <table>
+                <colgroup>
+                    <col/>
+                </colgroup>
+                <tr>
+                    <td>
+                        <img src="/assets/media/flowtrails.jpeg" alt = "flow trails" decoding = "sync" type = "image/png" height = "300" width = "500">
+                        <h3>Flow Trails</h3>
+                        <p>
+                            I was inspired to start this project after seeing other programmers make procedural/generative designs using code.<br/>
+                            The purpose of this was to test how vector fields could manipulate objects in space as they moved across the plane, <br/>
+                            and see what behaviors arose from an aggregate of forces. Each canvas initializes a thousand objects whose<br>
+                            physical properties are constantly being updated in relation to the force at each point. It takes some simple vector <br/>
+                            operations to get this working, but the end result is spectacular. Above is a screenshot of how the forces guide the <br/>
+                            objects' paths over time. I added some nice trails to add some nice flow-y-ness to it.<br/>
+                            Kind of reminds me of a seabed of anemone.
+
+                        </p>
+                        <a href = "https://editor.p5js.org/WillyWonka445/full/DPXfepMe1" target = "_blank"><button>view</button></a>
+                        <br/>
+                        <br/>
+                    </td>
+                </tr>
+
+
+                <tr>
+                    <td>
+                        <img src="/assets/media/truchettiles.png" alt = "truchet tiles" decoding = "sync" type = "image/png">
+                        <h3>Truchet Tiles</h3>
+                        <p>
+                            I learned about truchet tiles about a year ago when I was watching a youtuber make these from scratch.<br/>
+                            Basically, these are tiles that are rotationally asymmetric, meaning that you don't get the same shape<br/>
+                            after rotations. When assembled together, they can form varied patterns depending on each tile's<br/>
+                            orientation. Being the creative genius I am, I did look to the internet for help, but it was pretty amazing<br/>
+                            to see intricate patterns emerge nothing from randomness. The one above uses tiles made out of<br/> 
+                            quarter circles and lines.
+                        
+                        </p>
+                        <a href = "https://editor.p5js.org/WillyWonka445/sketches/4iNH9LRba" target = "_blank"><button>view</button></a>
+                        <br/>
+                        <br/>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <img src="/assets/media/polygonsubdivision.png" alt = "truchet tiles" decoding = "sync" type = "image/png" width = "500" height = "500">
+                        <h3>Ploygon SubDivision</h3>
+                        <p>
+                            During my fall quarter as a junior, I was browsing Pinterest for natural scenery when I eventually dived into a whole world<br/>
+                            of farm landscapes. I was captivated by the recursive relationship of different plots of agriculture and the<br>
+                            repeating colors of each section. I wanted to reimagine this with code, so I found an algorithm that enabled me<br/>
+                            to take a canvas and subdivide it several times along its width and height. With a dash of color here and some tweaks to<br>
+                            the striations, I ended up with this. Try it out with the link below. You'll notice that each iteration is unique and<br/> 
+                            and varies in their palette as well. I hope you find it fun and engaging to use!
+                        
+                        </p>
+                        <a href = "https://editor.p5js.org/WillyWonka445/full/OzTCl6-4n" target = "_blank"><button>view</button></a>
+
+                        <br/>
+                        <br/>
+
+                    </td>
+                </tr>
+
+
+            </table>
+
+            
+        </section>
+
+
+
+    </main>
+
+
 </body>
 
 </html>
